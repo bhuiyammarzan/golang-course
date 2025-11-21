@@ -52,4 +52,5 @@ func main () {
 	}
 
 	whoAmI(40.5)
+	whoAmI("golang")
 }
